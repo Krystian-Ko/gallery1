@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Krystian-Ko/gallery1/static/css/main.ca67ef22.css",
+    "main.js": "/Krystian-Ko/gallery1/static/js/main.fbe5319c.js",
+    "static/js/488.8fe64c94.chunk.js": "/Krystian-Ko/gallery1/static/js/488.8fe64c94.chunk.js",
+    "index.html": "/Krystian-Ko/gallery1/index.html",
+    "main.ca67ef22.css.map": "/Krystian-Ko/gallery1/static/css/main.ca67ef22.css.map",
+    "main.fbe5319c.js.map": "/Krystian-Ko/gallery1/static/js/main.fbe5319c.js.map",
+    "488.8fe64c94.chunk.js.map": "/Krystian-Ko/gallery1/static/js/488.8fe64c94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.fbe5319c.js"
+  ]
+}
