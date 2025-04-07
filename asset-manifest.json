@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Krystian-Ko/gallery1/static/css/main.ca67ef22.css",
-    "main.js": "/Krystian-Ko/gallery1/static/js/main.ae2a8ae8.js",
-    "static/js/488.8fe64c94.chunk.js": "/Krystian-Ko/gallery1/static/js/488.8fe64c94.chunk.js",
-    "index.html": "/Krystian-Ko/gallery1/index.html",
-    "main.ca67ef22.css.map": "/Krystian-Ko/gallery1/static/css/main.ca67ef22.css.map",
-    "main.ae2a8ae8.js.map": "/Krystian-Ko/gallery1/static/js/main.ae2a8ae8.js.map",
-    "488.8fe64c94.chunk.js.map": "/Krystian-Ko/gallery1/static/js/488.8fe64c94.chunk.js.map"
+    "main.css": "/gallery1/static/css/main.ca67ef22.css",
+    "main.js": "/gallery1/static/js/main.a91914bc.js",
+    "static/js/488.8fe64c94.chunk.js": "/gallery1/static/js/488.8fe64c94.chunk.js",
+    "index.html": "/gallery1/index.html",
+    "main.ca67ef22.css.map": "/gallery1/static/css/main.ca67ef22.css.map",
+    "main.a91914bc.js.map": "/gallery1/static/js/main.a91914bc.js.map",
+    "488.8fe64c94.chunk.js.map": "/gallery1/static/js/488.8fe64c94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.ae2a8ae8.js"
+    "static/js/main.a91914bc.js"
   ]
 }
